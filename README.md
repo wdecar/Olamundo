@@ -1,5 +1,4 @@
-# Olá, mundo!
- Primmeiro repositório de GitHub
+# Replicando o Google Glass!
+ Meu primeiro site completo
 
-Repositório criado na aula gravada de GitHub
-Essa linha eu adicionei deretamente no site! Que impressionante!
+Uma execelente aula do professor Gustavo Guanabara!
